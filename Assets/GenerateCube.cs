@@ -71,7 +71,7 @@ public class GenerateCube : MonoBehaviour
             
             new Vector3(1.0f, -1.0f, -1.0f),
             new Vector3(1.0f, 1.0f, -1.0f),
-            new Vector3(1.0f, 1.0f, 1.0f)
+            new Vector3(1.0f, 1.0f, 1.0f),
 
             // Define more vertices here!
             
@@ -91,7 +91,7 @@ public class GenerateCube : MonoBehaviour
 
             new Vector3(-1.0f, -1.0f, -1.0f),
             new Vector3(1.0f, 1.0f, -1.0f),
-            new Vector3(1.0f, -1.0f, -1.0f),
+            new Vector3(1.0f, -1.0f, -1.0f)
 
 
         });
@@ -135,26 +135,26 @@ public class GenerateCube : MonoBehaviour
             
             Color.yellow,
             Color.yellow,
-            Color.yellow
+            Color.yellow,
             
             // Define more colours here!
             
             //Front face
-            Color.blue
-            Color.blue
-            Color.blue
+            Color.blue,
+            Color.blue,
+            Color.blue,
 
-            Color.blue
-            Color.blue
-            Color.blue
+            Color.blue,
+            Color.blue,
+            Color.blue,
 
             //Back face
-            Color.blue
-            Color.blue
-            Color.blue
+            Color.blue,
+            Color.blue,
+            Color.blue,
 
-            Color.blue
-            Color.blue
+            Color.blue,
+            Color.blue,
             Color.blue
             
 
