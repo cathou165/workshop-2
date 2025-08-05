@@ -74,6 +74,7 @@ public class GenerateCube : MonoBehaviour
             new Vector3(1.0f, 1.0f, 1.0f)
 
             // Define more vertices here!
+           
         });
 
         // Step 2: Define the vertex colours. There is a one-to-one index
@@ -118,6 +119,8 @@ public class GenerateCube : MonoBehaviour
             Color.yellow
             
             // Define more colours here!
+            
+
         });
 
         // Step 3: Define the indices. The indices "connect" vertices together
